@@ -140,13 +140,7 @@ curl -X POST http://localhost:8080/api/analyze \
 └── pom.xml                             # Maven build + frontend integration
 ```
 
-## Screenshots
 
-| Initial View | File Upload | Analysis Result |
-|---|---|---|
-| ![Initial View](frontend/public/screenshots/initial-view.png) | ![File Upload](frontend/public/screenshots/file-upload.png) | ![Analysis Result](frontend/public/screenshots/analysis-result.png) |
-
-## Configuration
 
 | Variable     | Default | Description |
 |--------------|---------|-------------|
